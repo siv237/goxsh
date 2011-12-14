@@ -2,6 +2,8 @@
 
 Mt. Gox Shell — a command-line frontend to the Mt. Gox Bitcoin Exchange
 
+Note: I'm not really maintaining this anymore, see [Optonic's fork](https://github.com/Optonic/goxsh) for something more up-to-date.
+
 ## Features
 
 - Buy and sell bitcoins
